@@ -1,0 +1,76 @@
+BlueJ run started: Sat May 25 23:43:52 AEST 2019
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Detected language "chinese" based on iso639-2 code "zho"
+Opening project: C:\Users\J\monashEats
+1558791936892: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+java.io.FileNotFoundException while reading import cache: C:\Users\J\bluej\import-cache.xml (系统找不到指定的文件。)
+Communication with debug VM fully established.
+Opening project: C:\Users\J\monashEats-copy
+1558792216156: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Opening project: C:\Users\J\Desktop\monashEats-copy-copy
+1558792235952: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+5月 25, 2019 11:52:08 下午 javafx.scene.CssStyleHelper calculateValue
+警告: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+5月 25, 2019 11:52:08 下午 javafx.scene.CssStyleHelper calculateValue
+警告: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+5月 25, 2019 11:52:08 下午 javafx.scene.CssStyleHelper calculateValue
+警告: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+5月 25, 2019 11:52:08 下午 javafx.scene.CssStyleHelper calculateValue
+警告: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+5月 25, 2019 11:52:08 下午 javafx.scene.CssStyleHelper calculateValue
+警告: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+5月 25, 2019 11:52:08 下午 javafx.scene.CssStyleHelper calculateValue
+警告: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/BlueJ/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+====
+
+====
+BlueJ run started: Sat May 25 23:54:19 AEST 2019
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\J\Desktop\monashEats-copy-copy
+1558792463199: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sat May 25 23:58:07 AEST 2019
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\J\Desktop\monashEats-copy-copy
+1558792689507: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+An unexpected exception occurred:
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1886)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2021)
+	at bluej.terminal.Terminal$TerminalWriter.write(Terminal.java:956)
+	at bluej.debugger.jdi.VMReference$IOHandlerThread.run(VMReference.java:2293)
+An unexpected exception occurred:
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1886)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2021)
+	at bluej.terminal.Terminal$TerminalWriter.write(Terminal.java:956)
+	at bluej.debugger.jdi.VMReference$IOHandlerThread.run(VMReference.java:2293)
